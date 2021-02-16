@@ -1,0 +1,8 @@
+# LEAB_GDP_project
+This was a Codecademy Pro Portfolio project aimed at investigating the correlation between life expectancy at birth (LEAB) and Gross Domestic Product (GDP). No specific instructions as to how to complete the project were provided by Codecademy; however, I rapidly realized that it is nothing more than a work-over of what used to be a Codecademy guided "Capstone" project. My strategy was therefore to use the questions Codecademy prompted in the old Capstone project and to add my own touches where they seemed appropriate. I believe this to be a reasonable approach in light of the very limited data provided for the project: given just 16 GDP/life expectancy data points for 6 nations, there's only so many questions one can ask. My findings are summarized in a mock blog post (which is honestly is more of an informal article).
+
+The blog post/article which summarizes my findings is included in this repository as "leab_gdp_blog.pdf."
+
+The project itself was done with Python 3.0 and Jupyter Notebook. I used the included "all_data.csv" dataset, and utilized Pandas, NumPy, Seaborn, Matplotlib, the SciPy package stats, and the scikit-learn package linear_model in my analysis. The Jupyter Notebook file containing my analysis is included as "Life_Expectancy_GDP_MAC.ipynb."
+
+The included file "all_data.csv" was provided by Codecademy; according to them, the data were obtained from the World Bank national accounts data (https://data.worldbank.org/indicator/NY.GDP.MKTP.CD), OECD National Accounts data files, and the World Health Organization (http://apps.who.int/gho/data/node.main.688). Thanks and credit to the programmers and curriculum developers at Codecademy for compiling and formatting the data used in this project. 
